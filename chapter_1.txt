@@ -1,0 +1,3 @@
+There is a text
+And one more string with text
+And another one
